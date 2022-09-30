@@ -1,2 +1,2 @@
 # GitHubCopilotSpaceWar
-A simple 2D Space Shooter Game maked with GitHubCopilot
+A simple 2D Space Shooter Game made with GitHubCopilot
